@@ -6,7 +6,7 @@ int main(){
     printf("a+b=%d\n",a+b);
     printf("a-b=%d\n",a-b);
     printf("a/b=%d\n",a/b);
-    printf("a % b = %d\n,a % b");
+    printf("a %% b = %d\n",a % b);
     // Relational oprators
     printf("Relation oprators\n");
     printf("a==b: %d\n",a==b);
